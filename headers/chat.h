@@ -1,3 +1,15 @@
+#################################################################   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    chat.h			
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+#################################################################
+
+
 #ifndef CHAT_H
 #define CHAT_H
 
