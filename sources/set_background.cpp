@@ -1,3 +1,14 @@
+/****************************************************************   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    set_background.cpp
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+****************************************************************/
+
 #include "set_background.h"
 
 set_background::set_background()
