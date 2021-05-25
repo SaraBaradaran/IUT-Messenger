@@ -1,3 +1,14 @@
+/****************************************************************   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    chat.cpp		
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+****************************************************************/
+
 #include "chat.h"
 #include "chatroom.h"
 
