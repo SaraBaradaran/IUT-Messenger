@@ -1,3 +1,14 @@
+/****************************************************************   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    screen.cpp
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+****************************************************************/
+
 #include "screen.h"
 
 screen::screen()
