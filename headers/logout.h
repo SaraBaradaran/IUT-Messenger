@@ -1,3 +1,14 @@
+#################################################################   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    logout.h
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+#################################################################
+
 #ifndef LOGOUT_H
 #define LOGOUT_H
 
