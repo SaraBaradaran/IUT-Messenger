@@ -1,3 +1,14 @@
+/****************************************************************   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    chat_list.cpp		
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+****************************************************************/
+
 #include "chat_list.h"
 
 Chat_list::Chat_list(QGraphicsScene *scene,QString list_type)
