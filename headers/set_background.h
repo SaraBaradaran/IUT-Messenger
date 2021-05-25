@@ -1,3 +1,14 @@
+#################################################################
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    set_background.h
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+#################################################################
+
 #ifndef SET_BACKGROUND_H
 #define SET_BACKGROUND_H
 
