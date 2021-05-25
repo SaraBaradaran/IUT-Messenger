@@ -1,3 +1,14 @@
+#################################################################   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    join_create.h	
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+#################################################################
+
 #ifndef JOIN_CREATE_H
 #define JOIN_CREATE_H
 
