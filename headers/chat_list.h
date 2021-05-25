@@ -1,3 +1,14 @@
+#################################################################   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    chat_list.h			
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+#################################################################
+
 #ifndef CHAT_LIST_H
 #define CHAT_LIST_H
 
