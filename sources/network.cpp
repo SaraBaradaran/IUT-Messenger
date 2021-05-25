@@ -1,3 +1,14 @@
+/****************************************************************   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    network.cpp	
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+****************************************************************/
+
 #include "network.h"
 
 Network::Network()
