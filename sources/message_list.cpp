@@ -1,3 +1,14 @@
+/****************************************************************   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    message_list.cpp	
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+****************************************************************/
+
 #include "message_list.h"
 
 Messages_List::Messages_List(QGraphicsScene *scene, QString owner, QString token, QString user)
