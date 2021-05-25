@@ -1,3 +1,14 @@
+/****************************************************************   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    chatroom.cpp		
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+****************************************************************/
+
 #include "chatroom.h"
 
 Chatroom::Chatroom(QObject *parent) : QObject(parent)
